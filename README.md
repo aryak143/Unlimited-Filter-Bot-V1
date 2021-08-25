@@ -19,7 +19,7 @@
   </a>  
 </p>
 
-[![Senu Infinity](https://img.shields.io/badge/SenuInfinity-Channel-orange-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/senuinfinity)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenuGamerBoy%2FUnlimited-Filter-Bot-V1&count_bg=%2379C83D&title_bg=%23555555&icon=mailchimp.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![Senu Infinity](https://img.shields.io/badge/SenuInfinity-Support-red?style=flat&logo=telegram)](https://telegram.dog/senuinfinitygroup) 
 ㅤㅤㅤㅤㅤㅤㅤ  
