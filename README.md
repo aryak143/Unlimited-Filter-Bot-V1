@@ -30,10 +30,10 @@
 
 
 ### Features
-* Nearly unlimited filters
-* Supports all type of filters(Including Alert Button Filter).
-* Can save button filters directly (Rose Bot Feature)
-* Supports multiple PM connections
+* Nearly unlimited filters ♾
+* Supports all type of filters(Including Alert Button Filter). 😏
+* Can save button filters directly (Rose Bot Feature) 🌹
+* Supports multiple PM connections 💥
 * And all other features of a Filter Bot 🔥
 
 
@@ -46,9 +46,9 @@
 * Add your filters :)
 
 
-## Bot Commands
+## Bot Commands 💾
 
-(You need to be an admin or Auth User in order to use these commands)
+(You need to be an admin or Auth User in order to use these commands💖)
 
 > Filter Commands
 * `/add <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
@@ -128,17 +128,3 @@ python3 bot.py
 
 EG;  
 ![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
-
-## Credits
-
-<p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://docs.mongodb.com">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
