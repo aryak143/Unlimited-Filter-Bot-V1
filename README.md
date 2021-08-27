@@ -40,7 +40,7 @@
 #### Deploy the bot and start adding your filters :)
 
 
-## How to use the bot
+## How to use the bot 🦢
 * Add bot to your group with admin rights.
 
 * Add your filters :)
