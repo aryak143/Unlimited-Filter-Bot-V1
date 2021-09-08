@@ -46,16 +46,7 @@ async def cb_handler(client, query):
         await query.answer()
         keyboard = InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton("How to Deploy?", url="https://www.youtube.com/channel/UCfdbT14iYapzG4xOMVPRgnA"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
-                ],
-                [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/senuinfinity"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/senuinfinitygroup")
-                ]
-            ]
-        )
+          
 
         await query.message.edit_text(
             Script.HELP_MSG,
