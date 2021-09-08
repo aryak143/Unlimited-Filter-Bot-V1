@@ -242,14 +242,7 @@ async def help(client, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton("How to Deploy?", url="https://www.youtube.com/channel/UCfdbT14iYapzG4xOMVPRgnA"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
-                ],
-                [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/senuinfinity"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/senuinfinitygroup")
-                ]
+              
             ]
         ),
         reply_to_message_id=message.message_id
